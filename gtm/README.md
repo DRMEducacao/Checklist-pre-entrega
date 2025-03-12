@@ -35,7 +35,7 @@ Depois para "Google Tag Manager":
 ![Google Tag Manager](https://github.com/DRMEducacao/Checklist-pre-entrega/blob/main/gtm/image/gtm.png)
 
 Clique em "+" para adicionar uma nova tag:
-![Adicionar nova](https://github.com/DRMEducacao/Checklist-pre-entrega/blob/main/gtm/image/addNew.png)
+![Adicionar nova](https://github.com/DRMEducacao/Checklist-pre-entrega/blob/main/gtm/image/add.png)
 
 E adicione ou cole exatamente o mesmo código no campo exibido:
 ![Colar código GTM](https://github.com/DRMEducacao/Checklist-pre-entrega/blob/main/gtm/image/salve.png)
