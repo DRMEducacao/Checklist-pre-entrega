@@ -44,11 +44,11 @@ Pronto!
 
 Apenas para conhecimento, veja como seria caso precisasse adicionar manualmente...
 
-Ao criar sua conta, basta copiar o código da tag
+Ao criar sua conta, precisaria copiar os códigos da tag
 
-- O GTM fornecerá dois trechos de código.
+O GTM fornecerá dois trechos de código.
+
 - O primeiro deve ser colocado no `<head>`:
-
 ```html
 <!-- Google Tag Manager -->
 <script>
@@ -67,7 +67,6 @@ Ao criar sua conta, basta copiar o código da tag
 ```
 
 - O segundo deve ser adicionado no `<body>`:
-
 ```html
 <!-- Google Tag Manager (noscript) -->
 <noscript
@@ -80,6 +79,8 @@ Ao criar sua conta, basta copiar o código da tag
 ></noscript>
 <!-- Fim Google Tag Manager (noscript) -->
 ```
+
+Mas na plataforma da DRM, não precisa se preocupar isso, apenas em inserir o código GTM no local indicado no sistema, e pronto!
 
 ---
 
